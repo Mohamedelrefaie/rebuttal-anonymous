@@ -9,3 +9,7 @@ Figure assets for cross-solver validation and qualitative evaluation.
 - [`qualitative_evaluation`](qualitative_evaluation): Neon, Silverado, and Yaris comparisons.
 
 Neon uses byte-identical NCAC v7 source decks at 56.16 km/h; Silverado uses CCSA V3e at 35 mph.
+
+## ablations/
+
+`appendixF_mainsplit_ablations.md` — all four Appendix F ablation experiments (18 single-parameter variants) re-run on the main validated Neon split, with the paper's 80/5/14 screen values alongside for comparison.
