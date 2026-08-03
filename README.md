@@ -10,7 +10,7 @@ Figure assets for cross-solver validation and qualitative evaluation.
 
 Neon uses byte-identical NCAC v7 source decks at 56.16 km/h; Silverado uses CCSA V3e at 35 mph.
 
-Front-isometric animations: [Neon](neon/deformation/openradioss_vs_lsdyna_iso_front_right.gif) and [Silverado](silverado/deformation/openradioss_vs_lsdyna_iso_front_right.gif). Frames are synchronized by normalized crash progress, with rigid walls hidden for mesh clarity.
+Front-isometric animations: [Neon](solver_comparison_gifs/neon_openradioss_vs_lsdyna.gif) and [Silverado](solver_comparison_gifs/silverado_openradioss_vs_lsdyna.gif). Frames are synchronized by normalized crash progress, with rigid walls hidden for mesh clarity.
 
 ## ablations/
 
