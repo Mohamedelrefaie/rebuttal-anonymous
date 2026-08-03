@@ -10,6 +10,8 @@ Figure assets for cross-solver validation and qualitative evaluation.
 
 Neon uses byte-identical NCAC v7 source decks at 56.16 km/h; Silverado uses CCSA V3e at 35 mph.
 
+Front-isometric animations: [Neon](neon/deformation/openradioss_vs_lsdyna_iso_front_right.gif) and [Silverado](silverado/deformation/openradioss_vs_lsdyna_iso_front_right.gif). Frames are synchronized by normalized crash progress, with rigid walls hidden for mesh clarity.
+
 ## ablations/
 
 `appendixF_mainsplit_ablations.md` — all four Appendix F ablation experiments (18 single-parameter variants) re-run on the main validated Neon split, with the paper's 80/5/14 screen values alongside for comparison.
